@@ -1,0 +1,19 @@
+
+body{
+	text-decoration-color: 	#FF0000;
+	margin-top: 10px;
+	background-image: url("file:///C:/Users/Mangal%20Kumar/Desktop/photo.jpg");
+}
+
+#login_main{
+
+	/*border: 1px solid red;*/
+	height: 420px;
+	width: 590px;
+
+	margin: auto;
+	margin-top: 150px;
+}
+h1{
+	color: red;
+}
